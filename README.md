@@ -1,0 +1,2 @@
+# samplehomeapp
+sample news app
